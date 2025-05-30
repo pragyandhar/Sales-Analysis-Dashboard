@@ -60,7 +60,7 @@ Your mission was clear:
 
 ## 📸 DASHBOARD PREVIEW
 
-*(Insert relevant Power BI dashboard screenshots here)*
+[📄 View the full PDF](/Sales_Analysis.pdf)
 
 ---
 
