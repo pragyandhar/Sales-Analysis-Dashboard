@@ -88,8 +88,9 @@ Your mission was clear:
 
 - `Sales Analysis.pdf`: Dashboard walk-through
 - `train.csv`: Dataset used for the report
-- `Sales_Analysis.pbix`: Power BI dashboard file (if included)
+- `Sales Analysis.pbix`: Power BI dashboard file (if included)
 - `README.md`: This documentation
+- `assets`: For screenshots in Readme.md
 
 ---
 
