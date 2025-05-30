@@ -47,7 +47,6 @@ Your mission was clear:
 | 👥 **Customer Segments** | Home Office customers show high order value but low repeat rates |
 | 📅 **Seasonality** | Winter sales spike, but profit dips hint at aggressive discounting |
 | 🚚 **Shipping Analysis** | Standard class is overused — increasing cost without visible profit boost |
-| 🗺️ **Geo-Insights** | State-wise mapping reveals hidden market opportunities and weak zones |
 
 ---
 
