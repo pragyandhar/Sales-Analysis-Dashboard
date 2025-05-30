@@ -60,11 +60,27 @@ Your mission was clear:
 
 ## 📸 DASHBOARD PREVIEW
 
-<img src="assets/1.png" alt="Screenshot" style="width:300px; border:4px solid white; border-radius:6px;" />
-<img src="assets/2.png" alt="Screenshot" style="width:300px; border:4px solid white; border-radius:6px;" />
-<img src="assets/3.png" alt="Screenshot" style="width:300px; border:4px solid white; border-radius:6px;" />
-<img src="assets/4.png" alt="Screenshot" style="width:300px; border:4px solid white; border-radius:6px;" />
-<img src="assets/5.png" alt="Screenshot" style="width:300px; border:4px solid white; border-radius:6px;" />
+<p align="center">
+  <img src="assets/1.png" alt="Screenshot"
+       style="width:600px; height:auto; border:6px solid white; border-radius:8px;" />
+</p>
+<p align="center">
+  <img src="assets/2.png" alt="Screenshot"
+       style="width:600px; height:auto; border:6px solid white; border-radius:8px;" />
+</p>
+<p align="center">
+  <img src="assets/3.png" alt="Screenshot"
+       style="width:600px; height:auto; border:6px solid white; border-radius:8px;" />
+</p>
+<p align="center">
+  <img src="assets/4.png" alt="Screenshot"
+       style="width:600px; height:auto; border:6px solid white; border-radius:8px;" />
+</p>
+<p align="center">
+  <img src="assets/5.png" alt="Screenshot"
+       style="width:600px; height:auto; border:6px solid white; border-radius:8px;" />
+</p>
+
 
 ---
 
