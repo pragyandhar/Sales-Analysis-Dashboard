@@ -60,7 +60,6 @@ Your mission was clear:
 
 ## 📸 DASHBOARD PREVIEW
 
-[📄 View the full PDF](/Sales_Analysis.pdf)
 
 ---
 
